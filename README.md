@@ -57,7 +57,7 @@ The high-level pseudocode for the animations is
       Lazy eye (lower pupil on one eye, wait, move back)
       Crazy blink (blink left eye, blink right eye)
       Glow eyes (flash intensity of displays, slowly lower)
-      Slow machine (spin eyes vertically with wraparound, stop one eye slower than the other, flash intensity)
+      Slot machine (spin eyes vertically with wraparound, stop one eye slower than the other, flash intensity)
     Wait
 ```
 
