@@ -1,7 +1,7 @@
 # ScaryDuino
 Animated Halloween Pumpkin Eyes - Arduino Style
 
-![Assembled Pumpkin](pumpkpin.png)
+![Assembled Pumpkin](pumpkin.png)
 
 ## Parts (aka BOM)
 
